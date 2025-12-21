@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitali Gadge</h1>
-<h3 align="center">Full Stack Java Developer | Spring Boot | React</h3>
+<h3 align="center">Full Stack Java Developer</h3>
 
 ---
 
