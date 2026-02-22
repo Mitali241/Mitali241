@@ -2,7 +2,11 @@
 
 # Mitali Gadge
 
-Full Stack Developer • Building clean & useful software
+```txt
+Full Stack Developer
+Building real-world web products
+Learning something new every day
+```
 
 Mumbai, India
 
@@ -10,52 +14,64 @@ Mumbai, India
 
 ---
 
-## stack
+## tech
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,spring,mysql,mongodb,git,docker,vscode" />
+</p>
+
+---
+
+## focus
+
+```txt
+• scalable backend systems
+• clean frontend architecture
+• real world products
+• improving problem solving
+```
+
+---
+
+## projects
 
 ```
-java
-javascript
-typescript
-react
-nextjs
-node
-spring boot
-mysql
-mongodb
+fleet management system
+wrapper shop ecommerce
+invoice generation system
+job register system
+digital marketing platform
 ```
 
 ---
 
-## building
+## currently learning
 
-fleet management system  
-scalable backend services  
-real world web applications  
-
----
-
-## selected work
-
-wrapper shop — full stack e-commerce  
-invoice system — java + spring boot  
-job register system — java desktop app  
-digital marketing platform — nextjs  
+```
+data structures
+system design
+backend architecture
+```
 
 ---
 
-## currently
+## stats
 
-learning system design  
-improving data structures  
-writing better backend code  
+![stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent)
 
 ---
 
 ## connect
 
-email: gadgemitali2001@gmail.com  
-linkedin: add-link
+email   → gadgemitali2001@gmail.com  
+linkedin → add-link
 
 ---
 
-> simple code. useful products. constant learning.
+<p align="center">
+  
+code • learn • build • repeat
+
+</p>
