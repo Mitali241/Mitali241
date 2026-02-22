@@ -5,5 +5,7 @@ Lately I’ve been spending time strengthening my backend skills, exploring syst
 Tech I work with
 
 JavaScript • TypeScript • React • Next.js
+
 Java • Node.js • Spring Boot • REST APIs
+
 MySQL • MongoDB
