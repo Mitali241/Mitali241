@@ -2,7 +2,7 @@ An early-career Full Stack Developer working with React, Next.js and modern web 
 
 Lately I’ve been spending time strengthening my backend skills, exploring system design concepts, and building real projects that solve everyday problems.
 
-Tech I work with
+Tech I work with -
 
 JavaScript • TypeScript • React • Next.js
 
